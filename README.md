@@ -34,7 +34,7 @@ To test the model:
 - Modify the ``DATA_DIR`` in ``dataset/xxx.py`` to your own.
 - Run the command as shown in the following example. The input parameter is the ID of your GPUs.
 ```
-sh script/test_hands_voc.py
+sh script/test_hands.py
 ```
 ## Citation
 If you find our paper and/or code helpful, please cite:
