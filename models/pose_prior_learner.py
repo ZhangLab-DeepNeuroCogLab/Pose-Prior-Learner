@@ -13,8 +13,6 @@ from utils.losses import compute_template_boundary_loss, VGGPerceptualLoss
 from utils.utils import  draw_lines
 import math
 
-PRETRAINED_VGG_PATH = "./pretrained_models/vgg19-dcbb9e9d.pth"
-
 class MLPBlock(nn.Module):
     def __init__(self, dim, inter_dim, dropout_ratio):
         super().__init__()
