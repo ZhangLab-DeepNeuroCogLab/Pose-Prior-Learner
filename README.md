@@ -17,10 +17,10 @@ Other dependencies can be installed as needed.
 
 ## Dataset
 The [Taichi](https://github.com/AliaksandrSiarohin/motion-cosegmentation), [Human3.6m](http://vision.imar.ro/human3.6m/description.php), [CUB](http://www.vision.caltech.edu/visipedia/CUB-200-2011.html), [11k Hands](https://sites.google.com/view/11khands), [Horse2Zebra](https://www.kaggle.com/datasets/balraj98/horse2zebra-dataset) and [Flower](https://www.robots.ox.ac.uk/~vgg/data/flowers/102/index.html) can be found on their websites.
-We provide the Youtube Dog Video dataset [here](https://drive.google.com/drive/u/0/folders/1J3NWlrrVtgHMgHfFBMhEniqHnyHbl2Zo).
+We provide the Youtube Dog Video dataset [here](https://drive.google.com/drive/folders/1J3NWlrrVtgHMgHfFBMhEniqHnyHbl2Zo?usp=drive_link).
 
 ## Pre-trained Models
-he pre-trained models can be downloaded from [Google Drive](https://drive.google.com/drive/u/0/folders/1nh9HSDwN3BZP3XDQDiXXHy7X14DsqPuA).
+he pre-trained models can be downloaded from [Google Drive](https://drive.google.com/drive/folders/1nh9HSDwN3BZP3XDQDiXXHy7X14DsqPuA?usp=drive_link).
 
 ## Training & Testing
 To train the model from scratch, please follow the steps below:

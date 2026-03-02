@@ -39,7 +39,7 @@ class TrainRegSet(torch.utils.data.Dataset):
     def __init__(self, transform=None):
         super().__init__()
         self.transform = transform
-
+        self.to_tensor = torchvision.transforms.ToTensor()
         self.samples = []
 
         for subject_index in [1, 5, 6, 7, 8, 9]:
